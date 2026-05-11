@@ -7,7 +7,7 @@ function Home() {
         <Container>
             <center>
             <h1>Kevin Tucyap Amistad</h1>
-            <p>BSIT@University Of Baguio</p>
+            <p>BSIT@University Of Baguio<br />My Portfolio</p>
             </center>
         </Container>
   
